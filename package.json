@@ -1,7 +1,16 @@
 {
-  "name" : "schnaps",
-  "version" : "0.0.1",
-  "dependencies" : {
-    "express" : ""
+    "name" : "schnaps"
+  , "version" : "0.0.1"
+  , "dependencies" : {
+    "coffee-script": "1.1.x"
+    , "express": "2.5.x"
+    , "jade": "0.x.x"
+    , "connect-assets": "2.1.x"
+    , "stylus": "*"
+    , "nib": "*"
+    , "markdown": "*"
   }
+  , "devDependencies": {
+  }
+  , "engine": "node ~> 0.6.x"
 }
